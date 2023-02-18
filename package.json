@@ -1,5 +1,5 @@
 {
-  "name": "assignmnet3",
+  "name": "assignment3",
   "version": "1.0.0",
   "description": "",
   "main": "blog-service.js",
@@ -7,6 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Panga9314/Web_Assignment3.git"
+  },
   "author": "Gurshaan Singh Khaira",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Panga9314/Web_Assignment3/issues"
+  },
+  "homepage": "https://github.com/Panga9314/Web_Assignment3#readme"
 }
